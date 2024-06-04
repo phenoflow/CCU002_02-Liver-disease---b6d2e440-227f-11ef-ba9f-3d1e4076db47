@@ -1,0 +1,246 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-liver-disease-cirrho---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-liver-disease-sclerosing---secondary.py
+inputModule4:
+  class: File
+  path: python/nonalcoholic-ccu002_02-liver-disease---secondary.py
+inputModule5:
+  class: File
+  path: python/extrahepatic-ccu002_02-liver-disease---secondary.py
+inputModule6:
+  class: File
+  path: python/pigmentary-ccu002_02-liver-disease---secondary.py
+inputModule7:
+  class: File
+  path: python/oesophageal-ccu002_02-liver-disease---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-liver-disease-phlebosclerosis---secondary.py
+inputModule9:
+  class: File
+  path: python/unilobular-ccu002_02-liver-disease---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-liver-disease-bleeding---secondary.py
+inputModule11:
+  class: File
+  path: python/mixed-ccu002_02-liver-disease---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu002_02-liver-disease-druginduced---secondary.py
+inputModule13:
+  class: File
+  path: python/infectious-ccu002_02-liver-disease---secondary.py
+inputModule14:
+  class: File
+  path: python/micronodular-ccu002_02-liver-disease---secondary.py
+inputModule15:
+  class: File
+  path: python/postnecrotic-ccu002_02-liver-disease---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-liver-disease-sequelae---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_02-liver-disease-sclerotherapy---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-liver-disease-subfulminant---secondary.py
+inputModule19:
+  class: File
+  path: python/gastric-ccu002_02-liver-disease---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_02-liver-disease-compensation---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_02-liver-disease-transplanted---secondary.py
+inputModule22:
+  class: File
+  path: python/ccu002_02-liver-disease-subacute---secondary.py
+inputModule23:
+  class: File
+  path: python/chronic-ccu002_02-liver-disease---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu002_02-liver-disease-damage---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu002_02-liver-disease-named---secondary.py
+inputModule26:
+  class: File
+  path: python/recurrent-ccu002_02-liver-disease---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu002_02-liver-disease-operation---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_02-liver-disease-specified---secondary.py
+inputModule29:
+  class: File
+  path: python/rigid-ccu002_02-liver-disease---secondary.py
+inputModule30:
+  class: File
+  path: python/viral-ccu002_02-liver-disease---secondary.py
+inputModule31:
+  class: File
+  path: python/deltaagent-ccu002_02-liver-disease---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_02-liver-disease-congenita---secondary.py
+inputModule33:
+  class: File
+  path: python/ccu002_02-liver-disease-cardiac---secondary.py
+inputModule34:
+  class: File
+  path: python/ccu002_02-liver-disease-alagille---secondary.py
+inputModule35:
+  class: File
+  path: python/ccu002_02-liver-disease-cholestasis---secondary.py
+inputModule36:
+  class: File
+  path: python/ccu002_02-liver-disease-atresia---secondary.py
+inputModule37:
+  class: File
+  path: python/ccu002_02-liver-disease-abscess---secondary.py
+inputModule38:
+  class: File
+  path: python/ccu002_02-liver-disease-degeneration---secondary.py
+inputModule39:
+  class: File
+  path: python/ccu002_02-liver-disease-fibrosis---secondary.py
+inputModule40:
+  class: File
+  path: python/capsular-ccu002_02-liver-disease---secondary.py
+inputModule41:
+  class: File
+  path: python/previous-ccu002_02-liver-disease---secondary.py
+inputModule42:
+  class: File
+  path: python/cystic-ccu002_02-liver-disease---secondary.py
+inputModule43:
+  class: File
+  path: python/ccu002_02-liver-disease-complication---secondary.py
+inputModule44:
+  class: File
+  path: python/ccu002_02-liver-disease-minnesota---secondary.py
+inputModule45:
+  class: File
+  path: python/multilobular-ccu002_02-liver-disease---secondary.py
+inputModule46:
+  class: File
+  path: python/ccu002_02-liver-disease-exploration---secondary.py
+inputModule47:
+  class: File
+  path: python/ccu002_02-liver-disease-assessment---secondary.py
+inputModule48:
+  class: File
+  path: python/ccu002_02-liver-disease-review---secondary.py
+inputModule49:
+  class: File
+  path: python/ccu002_02-liver-disease-child---secondary.py
+inputModule50:
+  class: File
+  path: python/bacterial-ccu002_02-liver-disease---secondary.py
+inputModule51:
+  class: File
+  path: python/ccu002_02-liver-disease-fibreopt---secondary.py
+inputModule52:
+  class: File
+  path: python/congestive-ccu002_02-liver-disease---secondary.py
+inputModule53:
+  class: File
+  path: python/persistent-ccu002_02-liver-disease---secondary.py
+inputModule54:
+  class: File
+  path: python/ccu002_02-liver-disease-banding---secondary.py
+inputModule55:
+  class: File
+  path: python/ccu002_02-liver-disease-cholangitis---secondary.py
+inputModule56:
+  class: File
+  path: python/ccu002_02-liver-disease-related---secondary.py
+inputModule57:
+  class: File
+  path: python/ccu002_02-liver-disease-atrophy---secondary.py
+inputModule58:
+  class: File
+  path: python/ccu002_02-liver-disease-pipestem---secondary.py
+inputModule59:
+  class: File
+  path: python/ccu002_02-liver-disease-sarcoidosis---secondary.py
+inputModule60:
+  class: File
+  path: python/ccu002_02-liver-disease-congestion---secondary.py
+inputModule61:
+  class: File
+  path: python/ccu002_02-liver-disease-autoimmune---secondary.py
+inputModule62:
+  class: File
+  path: python/whole-ccu002_02-liver-disease---secondary.py
+inputModule63:
+  class: File
+  path: python/upper-ccu002_02-liver-disease---secondary.py
+inputModule64:
+  class: File
+  path: python/ccu002_02-liver-disease-sengstakenblakemore---secondary.py
+inputModule65:
+  class: File
+  path: python/heterotopic-ccu002_02-liver-disease---secondary.py
+inputModule66:
+  class: File
+  path: python/ccu002_02-liver-disease-classified---secondary.py
+inputModule67:
+  class: File
+  path: python/primary-ccu002_02-liver-disease---secondary.py
+inputModule68:
+  class: File
+  path: python/pericellular-ccu002_02-liver-disease---secondary.py
+inputModule69:
+  class: File
+  path: python/active-ccu002_02-liver-disease---secondary.py
+inputModule70:
+  class: File
+  path: python/ccu002_02-liver-disease-transplantation---secondary.py
+inputModule71:
+  class: File
+  path: python/local-ccu002_02-liver-disease---secondary.py
+inputModule72:
+  class: File
+  path: python/fatty-ccu002_02-liver-disease---secondary.py
+inputModule73:
+  class: File
+  path: python/ccu002_02-liver-disease-balloon---secondary.py
+inputModule74:
+  class: File
+  path: python/ccu002_02-liver-disease-syphilis---secondary.py
+inputModule75:
+  class: File
+  path: python/ccu002_02-liver-disease-hypoxiaassociated---secondary.py
+inputModule76:
+  class: File
+  path: python/ccu002_02-liver-disease-hypertension---secondary.py
+inputModule77:
+  class: File
+  path: python/ccu002_02-liver-disease-failure---secondary.py
+inputModule78:
+  class: File
+  path: python/hepatorenal-ccu002_02-liver-disease---secondary.py
+inputModule79:
+  class: File
+  path: python/splenic-ccu002_02-liver-disease---secondary.py
+inputModule80:
+  class: File
+  path: python/syphilitic-ccu002_02-liver-disease---secondary.py
+inputModule81:
+  class: File
+  path: python/ccu002_02-liver-disease-endoscop---secondary.py
+inputModule82:
+  class: File
+  path: python/output-cases.py
